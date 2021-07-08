@@ -1,7 +1,23 @@
 .App {
   text-align: center;
+  margin: auto;
+  padding: 2em;
+  height: 90vh;
+  width: 90vw;
+  background-color: aquamarine;
 }
-
+.split {
+  display:flex;
+  justify-content: space-evenly;
+  align-items: flex-start;
+}
+.cards {
+  height:70%;
+  width: 100%;
+  display:flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;

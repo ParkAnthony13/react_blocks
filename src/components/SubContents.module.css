@@ -1,0 +1,6 @@
+.box {
+    background-color: goldenrod;
+    flex: 1;
+    height: 90%;
+    margin:1.5em;
+}
